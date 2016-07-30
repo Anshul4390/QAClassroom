@@ -1,0 +1,17 @@
+app_url: http://www.google.com
+
+searchTerm: QA Infotech
+
+email:
+ recipients: anshulmathur@qainfotech.net
+ 
+#Following details are necessary for capturing screenshots
+screenshot:
+  takeScreenshot: yes
+  dirpath: "target/Screenshot"  
+  ftpUpload:
+    uploadImage: no
+    url: localhost
+    userid: ftp_user_id
+    password: ftp_user_password
+  
