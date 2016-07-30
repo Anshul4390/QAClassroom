@@ -1,10 +1,5 @@
 target
 test-output
-report
+.settings
 .project
 .classpath
-.settings
-.idea
-.log
-.DS_Store
-
